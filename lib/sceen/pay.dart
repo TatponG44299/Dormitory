@@ -296,7 +296,7 @@ class _PaydormState extends State<Paydorm> {
     StorageUploadTask storageUploadTask = storageReference.putFile(_image);
 
   
-    print('==================$_image');
+    print('==================$storageUploadTask');
   }
   Widget showImage() {
     return Container(
