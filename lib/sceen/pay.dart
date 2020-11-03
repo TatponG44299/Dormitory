@@ -122,13 +122,13 @@ class _PaydormState extends State<Paydorm> {
           ),
           child: Stack(
             children: [
-              showImage(),
+             // showImage(),
               scbImages(),
               kungImages(),
               idSCB(),
               idkongt(),
               setImages(),
-              upImages()
+              //upImages()
             ],
           ),
         ),
@@ -170,6 +170,9 @@ class _PaydormState extends State<Paydorm> {
               color: Color(0xFF1f4961),
               onPressed: () {
                 chooseFile(ImageSource.gallery);
+                if(_image != null){
+                  uploadFile();
+                }
               },
             ),
           ],
