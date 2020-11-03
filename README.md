@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+[![coins.png](https://i.postimg.cc/ryWQTgBM/coins.png)](https://postimg.cc/G9LkJP35)
+
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
