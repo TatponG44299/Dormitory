@@ -34,6 +34,14 @@
  - หน้าแสดงรายละเอียดช่องทางการชำระเงิน
  -อัพเดตรูปภาพ/หลักฐานการโอน
  
- ### หน้าที่เลือกรูปภาพ
+ ### หน้าเลือกรูปภาพ
+ 
+ [![123438170-409942803500236-7949189097587076561-n.png](https://i.postimg.cc/sxMFfLhV/123438170-409942803500236-7949189097587076561-n.png)](https://postimg.cc/XB61QQLh)
+ 
+ 
+ ### Firebase Storage 
  
  [![Capture1.png](https://i.postimg.cc/7YQ6VvVN/Capture1.png)](https://postimg.cc/MvVq6Fgc)
+ 
+ - เก็บข้อมูลรูปภาพ
+ 
