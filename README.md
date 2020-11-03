@@ -1,18 +1,39 @@
 # dormitory
 
-A new Flutter project.
+พัฒนาแอปพลิเคชันด้วย Flutter
 
-[![coins.png](https://i.postimg.cc/ryWQTgBM/coins.png)](https://postimg.cc/G9LkJP35)
+## ผู้พัฒนาแอปพลิเคชัน
+- รหัสนิสิต 60020660 นายทัตพงศ์ รัตนวิชัย
 
-# Getting Started
+## รายละเอียดระบบ
 
-This project is a starting point for a Flutter application.
+### หน้าเข้าสู่ระบบ
 
-A few resources to get you started if this is your first Flutter project:
+[![123401696-685941155363010-1804885051111840731-n.png](https://i.postimg.cc/ncdJKH0d/123401696-685941155363010-1804885051111840731-n.png)](https://postimg.cc/cr820NqY)
+- หน้า login ได้ใช้ Firebase Realtime Database เพื่อเข้าสู่ระบบใช้งาน 
+  - ผู้ใช้มีบัญชีแล้วสามารถกรอกชื่อผู้ใช้และรหัสผ่าน เพื่อเข้าสู่ระบบใช้งาน
+  - ผู้ใช้ที่ยังไม่บัญชี ผู้ใช้ต้องให้จัดการหอเป็นคนสมัครให้ถึงสามารถใช้งานด้ 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  
+### Firebase Realtime Database 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Capture.png](https://i.postimg.cc/Wbx9cC3N/Capture.png)](https://postimg.cc/vcL7WPfk)
+- ข้อมูลฝ่ายจัดการหอสมัครให้
+
+ 
+### หน้าแสดงข้อมูล
+
+[![123413163-273612980705363-4481357432707862028-n.png](https://i.postimg.cc/hPmLTjDn/123413163-273612980705363-4481357432707862028-n.png)](https://postimg.cc/ykV3z73p)
+  
+- หน้าแสดงข้อมูล
+  - หน้านี้จะแสดงรายละเอียดค่าใช้จ่ายแต่ละเดือน
+  
+  ### หน้าช่องทางชำระเงิน
+  
+[![123412468-3313559948742959-8326890535197896033-n.png](https://i.postimg.cc/YCq64wSf/123412468-3313559948742959-8326890535197896033-n.png)](https://postimg.cc/JGvDgvZG)
+ - หน้าแสดงรายละเอียดช่องทางการชำระเงิน
+ -อัพเดตรูปภาพ/หลักฐานการโอน
+ 
+ ### หน้าที่เลือกรูปภาพ
+ 
+ [![Capture1.png](https://i.postimg.cc/7YQ6VvVN/Capture1.png)](https://postimg.cc/MvVq6Fgc)
